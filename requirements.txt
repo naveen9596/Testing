@@ -1,0 +1,2 @@
+darkslide==6.0.0
+robotframework==4.1.2

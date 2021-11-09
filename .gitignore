@@ -1,0 +1,11 @@
+**/*.robot
+.venv
+.others
+.idea
+**/*.pptx
+**/*.xlsx
+**/*.html
+tms
+
+5-RobotFramework
+6-PracticalPart
