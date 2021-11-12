@@ -5,7 +5,7 @@
 **/*.pptx
 **/*.xlsx
 **/*.html
+**/*.xml
+**/Lesson3-Selenium
 tms
 
-5-RobotFramework
-6-PracticalPart
