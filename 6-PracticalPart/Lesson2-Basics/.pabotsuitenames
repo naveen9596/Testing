@@ -1,0 +1,15 @@
+datasources:5f0955c15524a8615d087ef1ac50f79fbc95df12
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:15b63dad8e1d58950556ca0103bf8d916dbcc092
+--test Lesson2-Basics.01 Basic.Moj prvy test
+--test Lesson2-Basics.01 Basic.Moj druhy test
+--test Lesson2-Basics.02 Basic.Moj prvy test test2
+--test Lesson2-Basics.02 Basic.Moj druhy test test2
+--test Lesson2-Basics.03 Basic.Moj prvy test test3
+--test Lesson2-Basics.03 Basic.Moj druhy test test3
+--test Lesson2-Basics.04 Work With Files.Praca s variable
+--test Lesson2-Basics.04 Work With Files.Vytvor subor test_automation_academy.txt
+--test Lesson2-Basics.05 Setup Teardown.Moj test 1
+--test Lesson2-Basics.05 Setup Teardown.Moj test 2
+--test Lesson2-Basics.05 Setup Teardown.Moj test 3
