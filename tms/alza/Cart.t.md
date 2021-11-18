@@ -9,6 +9,7 @@ Tags: catalogue, cart
 * 311 Adding a specific item via available category filters
     * Navigate to https://www.alza.sk/EN/ with clear site data
     * Click on the 'Computers and Laptops' category located in the left menu
+    * Click on the 'Laptops' category located in the left menu
     * Click on the 'Home and Office' category button
     * Click on the 'Affordable' category button
     * Click on the 'Best Sellers' results header tab
