@@ -7,5 +7,6 @@
 **/*.html
 **/*.xml
 **/pabot_results
-tms
+tms/google
+tms/odoprave
 
