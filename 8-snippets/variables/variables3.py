@@ -1,9 +1,15 @@
-var1 = {"a": "b"}
-var2 = {"a": "c"}
+# robot -V variables3.py:env2:1:2:3 variables.robot
 
 
-def get_variables(arg1, arg2):
-    print(arg1, arg2)
-    if arg1 == '1':
+var1 = {
+    "KeyA": "Hodnota1",
+    "KeyB": "Ahoj Svet"
+}
+var2 = {"KeyA": "Hodnota2", "KeyB": "Hello world"}
+
+
+def get_variables(environment, a, b, c):
+    if environment == "env1":
         return var1
-    return var2
+    elif environment == "env2":
+        return var2

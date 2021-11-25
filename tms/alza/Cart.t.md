@@ -17,13 +17,13 @@ Tags: catalogue, cart
     * Click on the 'Add to Cart' button
     * Check if:
       - Phrase 'Product Added to Cart.' is present on the page
-      - Respective picture and product name is present on the page
-      - Count of the items over the cart icon located in the top right corner is set to 1
-      - Price next to the cart icon located in the top right corner is correct
+      - (x) Respective picture and product name is present on the page
+      - (*) Count of the items over the cart icon located in the top right corner is set to 1
+      - (?) Price next to the cart icon located in the top right corner is correct
     * Click on the 'Proceed to Checkout' button
     * Check the redirection to https://www.alza.sk/EN/Order1.htm
     * Click on the 'Continue' button
-    * Check the redirection to https://www.alza.sk/EN/Order2.htm
+    * (?) Check the redirection to https://www.alza.sk/EN/Order2.htm
     * Click on the 'Do not add anything' button
     * Click on the 'Bratislava - main shop' shipping option
     * Click on the button 'Confirm your selection'
