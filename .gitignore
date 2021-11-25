@@ -7,7 +7,6 @@
 **/*.html
 **/*.xml
 **/pabot_results
-tms/odoprave
 **/__pycache__
 **/*.png
 ***/*.log
